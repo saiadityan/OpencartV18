@@ -1,0 +1,50 @@
+11:31:04.131 [TestNG-tests-1] INFO  testCases.TC_RF_001_AccountRegistration - ***** Finished TC_RF_001_AccountRegistration *****
+11:31:04.455 [TestNG-tests-2] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on MyAccount link...
+11:31:06.909 [TestNG-tests-2] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on Register link...
+11:31:06.911 [TestNG-tests-2] INFO  testCases.TC_RF_001_AccountRegistration - Providing customer details...
+11:31:08.170 [TestNG-tests-2] ERROR testCases.TC_RF_001_AccountRegistration - Test FailedTried to run command without establishing a connection
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.25'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [9a34325f-e192-4c5b-a320-19d060418440, findElement {using=xpath, value=//input[@id='input-firstname']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 139.0.1, moz:accessibilityChecks: false, moz:buildID: 20250529122813, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12992, moz:profile: C:\Users\USER\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 9a34325f-e192-4c5b-a320-19d060418440
+11:31:08.172 [TestNG-tests-2] INFO  testCases.TC_RF_001_AccountRegistration - ***** Finished TC_RF_001_AccountRegistration *****
+11:33:52.169 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\Software Testing\SelWebdriver_workspace\OpencartV18\master.xml"
+11:33:52.897 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\Software Testing\SelWebdriver_workspace\OpencartV18\master.xml
+
+11:34:00.606 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Starting TC_RF_001_AccountRegistration *****
+11:34:00.607 [main] DEBUG testCases.TC_RF_001_AccountRegistration - This is a debug log message
+11:34:01.000 [main] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on MyAccount link...
+11:34:01.832 [main] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on Register link...
+11:34:01.838 [main] INFO  testCases.TC_RF_001_AccountRegistration - Providing customer details...
+11:34:03.870 [main] INFO  testCases.TC_RF_001_AccountRegistration -  Validating expected message...
+11:34:03.873 [main] INFO  testCases.TC_RF_001_AccountRegistration - Test Passed
+11:34:03.873 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Finished TC_RF_001_AccountRegistration *****
+11:36:46.098 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\Software Testing\SelWebdriver_workspace\OpencartV18\master.xml"
+11:36:46.834 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\Software Testing\SelWebdriver_workspace\OpencartV18\master.xml
+
+11:36:47.299 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Starting TC_RF_001_AccountRegistration *****
+11:36:47.299 [main] DEBUG testCases.TC_RF_001_AccountRegistration - This is a debug log message
+11:36:47.342 [main] ERROR testCases.TC_RF_001_AccountRegistration - Test Failednull
+11:36:47.345 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Finished TC_RF_001_AccountRegistration *****
+11:37:38.658 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\Software Testing\SelWebdriver_workspace\OpencartV18\master.xml"
+11:37:39.426 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\Software Testing\SelWebdriver_workspace\OpencartV18\master.xml
+
+11:37:47.503 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Starting TC_RF_001_AccountRegistration *****
+11:37:47.504 [main] DEBUG testCases.TC_RF_001_AccountRegistration - This is a debug log message
+11:37:47.754 [main] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on MyAccount link...
+11:37:48.692 [main] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on Register link...
+11:37:48.702 [main] INFO  testCases.TC_RF_001_AccountRegistration - Providing customer details...
+11:37:50.958 [main] INFO  testCases.TC_RF_001_AccountRegistration -  Validating expected message...
+11:37:50.963 [main] INFO  testCases.TC_RF_001_AccountRegistration - Test Passed
+11:37:50.963 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Finished TC_RF_001_AccountRegistration *****
+11:45:33.783 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\Software Testing\SelWebdriver_workspace\OpencartV18\master.xml"
+11:45:34.538 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\Software Testing\SelWebdriver_workspace\OpencartV18\master.xml
+
+11:45:39.211 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Starting TC_RF_001_AccountRegistration *****
+11:45:39.211 [main] DEBUG testCases.TC_RF_001_AccountRegistration - This is a debug log message

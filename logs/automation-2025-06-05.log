@@ -1,0 +1,55 @@
+09:24:16.636 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\Software Testing\SelWebdriver_workspace\OpencartV18\grid-docker.xml
+
+09:24:24.545 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Starting TC_RF_001_AccountRegistration *****
+09:24:24.545 [main] DEBUG testCases.TC_RF_001_AccountRegistration - This is a debug log message
+09:24:25.238 [main] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on MyAccount link...
+09:24:26.201 [main] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on Register link...
+09:24:26.204 [main] INFO  testCases.TC_RF_001_AccountRegistration - Providing customer details...
+09:24:28.835 [main] INFO  testCases.TC_RF_001_AccountRegistration -  Validating expected message...
+09:24:28.838 [main] INFO  testCases.TC_RF_001_AccountRegistration - Test Passed
+09:24:28.839 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Finished TC_RF_001_AccountRegistration *****
+09:24:32.074 [main] INFO  testCases.TC_LF_002_LoginTest - ***** Starting TC_LF_002_LoginTest *****
+09:24:34.454 [main] INFO  testCases.TC_LF_002_LoginTest - Login Successful
+09:24:34.655 [main] INFO  testCases.TC_LF_002_LoginTest - ***** Finished TC_LF_002_LoginTest *****
+09:24:44.025 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Starting TC_RF_001_AccountRegistration *****
+09:24:44.025 [main] DEBUG testCases.TC_RF_001_AccountRegistration - This is a debug log message
+09:24:44.439 [main] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on MyAccount link...
+09:24:45.660 [main] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on Register link...
+09:24:45.669 [main] INFO  testCases.TC_RF_001_AccountRegistration - Providing customer details...
+09:24:49.328 [main] INFO  testCases.TC_RF_001_AccountRegistration -  Validating expected message...
+09:24:49.329 [main] INFO  testCases.TC_RF_001_AccountRegistration - Test Passed
+09:24:49.329 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Finished TC_RF_001_AccountRegistration *****
+09:24:59.485 [main] INFO  testCases.TC_LF_002_LoginTest - ***** Starting TC_LF_002_LoginTest *****
+09:25:02.907 [main] INFO  testCases.TC_LF_002_LoginTest - Login Successful
+09:25:03.019 [main] INFO  testCases.TC_LF_002_LoginTest - ***** Finished TC_LF_002_LoginTest *****
+11:08:35.642 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\Software Testing\SelWebdriver_workspace\OpencartV18\grid-docker.xml"
+11:08:37.150 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\Software Testing\SelWebdriver_workspace\OpencartV18\grid-docker.xml
+
+11:08:44.460 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Starting TC_RF_001_AccountRegistration *****
+11:08:44.460 [main] DEBUG testCases.TC_RF_001_AccountRegistration - This is a debug log message
+11:08:46.074 [main] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on MyAccount link...
+11:08:47.025 [main] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on Register link...
+11:08:47.032 [main] INFO  testCases.TC_RF_001_AccountRegistration - Providing customer details...
+11:08:49.876 [main] INFO  testCases.TC_RF_001_AccountRegistration -  Validating expected message...
+11:08:49.880 [main] INFO  testCases.TC_RF_001_AccountRegistration - Test Passed
+11:08:49.881 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Finished TC_RF_001_AccountRegistration *****
+11:08:52.705 [main] INFO  testCases.TC_LF_002_LoginTest - ***** Starting TC_LF_002_LoginTest *****
+11:08:56.569 [main] INFO  testCases.TC_LF_002_LoginTest - Login Successful
+11:08:56.807 [main] INFO  testCases.TC_LF_002_LoginTest - ***** Finished TC_LF_002_LoginTest *****
+11:09:12.324 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Starting TC_RF_001_AccountRegistration *****
+11:09:12.325 [main] DEBUG testCases.TC_RF_001_AccountRegistration - This is a debug log message
+11:09:12.775 [main] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on MyAccount link...
+11:09:15.700 [main] INFO  testCases.TC_RF_001_AccountRegistration - Clicked on Register link...
+11:09:15.702 [main] INFO  testCases.TC_RF_001_AccountRegistration - Providing customer details...
+11:09:18.177 [main] INFO  testCases.TC_RF_001_AccountRegistration -  Validating expected message...
+11:09:18.177 [main] INFO  testCases.TC_RF_001_AccountRegistration - Test Passed
+11:09:18.177 [main] INFO  testCases.TC_RF_001_AccountRegistration - ***** Finished TC_RF_001_AccountRegistration *****
+11:09:26.936 [main] INFO  testCases.TC_LF_002_LoginTest - ***** Starting TC_LF_002_LoginTest *****
+11:09:29.341 [main] INFO  testCases.TC_LF_002_LoginTest - Login Successful
+11:09:29.449 [main] INFO  testCases.TC_LF_002_LoginTest - ***** Finished TC_LF_002_LoginTest *****
+13:47:48.199 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\Software Testing\SelWebdriver_workspace\OpencartV18\grid-docker.xml"
+13:47:49.809 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\Software Testing\SelWebdriver_workspace\OpencartV18\grid-docker.xml
+
